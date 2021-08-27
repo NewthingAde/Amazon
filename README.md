@@ -22,7 +22,7 @@ The project was really challenging for me being the first e-commerce site i buil
 - CSS 
 - Flexbox
 - CSS Grid
-- Boostrap
+- Bootstrap
 - React  (https://reactjs.org/) - JS library
 - Redux
 - Material-Ul (https://material-ui.com)
@@ -37,3 +37,6 @@ During the course of the project, I understand Redux, firebase hosting, material
 
  ## Continued development
 I will love to focus more on the Backend and Database for the project and other projects too.
+
+## Deployement
+I deploy the website on Github and host it on Firebase.
